@@ -7,15 +7,15 @@
 
     const pages = [
         {
-            title: "home",
+            title: "Inicio",
             file: "index.html"
         },
         {
-            title: "contact",
+            title: "contacto",
             file: "contact.html"
         },
         {
-            title: "products",
+            title: "productos",
             file: "products.html"
         }
     ];
