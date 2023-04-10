@@ -1,0 +1,14 @@
+ footer{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    color: white;
+    padding: 40px;
+    background-color: #333;
+ }
+
+ footer img{
+    width: 100px;
+    height: 100px;
+    margin: 60px 0;
+ }

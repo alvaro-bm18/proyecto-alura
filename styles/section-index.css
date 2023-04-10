@@ -1,0 +1,26 @@
+section{
+    padding-bottom: 80px;
+}
+
+section h3{
+    margin: 30px 20px;
+}
+
+section div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section div img{
+    width: 140px;
+    height: 140px;
+    border-radius: 8px;
+    margin-left: 80px;
+}
+
+section p {
+    width: 40%;
+    text-align: center;
+    margin: 20px auto;
+}
